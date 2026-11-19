@@ -1,5 +1,9 @@
 # defensive-programming
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-spec-agentskills.io)](https://agentskills.io/specification)
+[![skills.sh](https://img.shields.io/badge/install-skills.sh-black)](https://skills.sh)
+
 Portable [Agent Skill](https://agentskills.io/specification) for **all executable logic** — domain rules, state machines, branches, async effects, and trust boundaries — plus integrity patterns for APIs, webhooks, and data.
 
 Structured like multi-reference skills (e.g. [impeccable](https://www.skills.sh/pbakaus/impeccable/impeccable)): `SKILL.md` routes to playbooks under `references/`.
